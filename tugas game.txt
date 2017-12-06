@@ -1,0 +1,14 @@
+Nama: Yusril Chalif Arrahman
+Kelas: 1 D4 game tech
+Nrp: 4210171004
+
+Tugas membuat game sederhana dengan pemrograman c
+* Game kuis
+-Winning : jika user dapat menebak semua jawaban
+-Konsep : user akan diberi pertanyaan dan beberapa jawab oleh mesin dan user harus menjawab dengan benar, jika user dapat menjawab maka akan mendapat nominal tertentu
+- losser; jika user tidak dapat menjawab pertanyaan
+-score : menggunakan nominal mata uang yang akan diakumulasi
+
+Game ini menggunakan fungsi for untuk memilih jawaban benar dan kondisi true & false 
+
+
